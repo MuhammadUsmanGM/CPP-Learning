@@ -7,7 +7,7 @@ int factorial(int n){
         return 1;
     }
     return n*factorial(n-1);
-    //recursion is a func calling itself
+    //In recursion a func calls itself
 }
 
 int fib(int n){
