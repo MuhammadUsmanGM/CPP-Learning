@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//Arrays of object & Passion Objects as Function Argument
+//Arrays of object & Passing Objects as Function Argument
 class Employ{
     int id;
     int salary;
