@@ -1,8 +1,8 @@
+---INFO for Student 1---
 Student Name: Muhammad Usman
-Roll Number: 5965
-Number of Subjects: 5
+Roll Number: 7542
+Number of Subjects: 4
 Marks for subject 1 : 87
 Marks for subject 2 : 76
-Marks for subject 3 : 88
-Marks for subject 4 : 67
-Marks for subject 5 : 65
+Marks for subject 3 : 67
+Marks for subject 4 : 65
