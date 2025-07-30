@@ -1,0 +1,9 @@
+1- Sonic The Hedgehog
+    Start time : 10:00am
+    Available seats : 75
+2- Transformers one
+    Start time : 12:00pm
+    Available seats : 65
+3- A Minecraft Movie
+    Start time : 03:00pm
+    Available seats : 50
