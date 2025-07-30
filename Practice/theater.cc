@@ -42,7 +42,7 @@ public:
         if (movieNumber > 0 && movieNumber <= 5)
         {
             cout << "-----Today's Available Movies-----" << endl;
-            ofstream outFile("theaterMovieList.txt"); // Open for writing outside the loop
+            ofstream outFile("theaterMovieList.txt"); 
 
             for (int i = 0; i < movieNumber; i++)
             {
@@ -59,7 +59,7 @@ public:
                 outFile << "    Start time : " << startTime << endl;
                 outFile << "    Available seats : " << maxSeats << endl;
             }
-            outFile.close(); // Close the file after writing all movies
+            outFile.close(); 
 
             cout << "Movies added successfully!" << endl;
             cout << "Do you wanna have a look at the list (yes/no) : ";
@@ -165,7 +165,7 @@ public:
             return false;
         }
         string toFind = CmovieName;
-        transform(toFind.begin(), toFind.end(), toFind.begin(), ::tolower); // Transform toFind to lowercase
+        transform(toFind.begin(), toFind.end(), toFind.begin(), ::tolower); 
         string line;
         while (getline(file1, line))
         {
@@ -282,6 +282,7 @@ public:
             {
                 getList();
                 ticketList();
+                main();
             }
             else if (sections == "book")
             {

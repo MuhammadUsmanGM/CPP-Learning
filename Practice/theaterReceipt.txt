@@ -1,8 +1,8 @@
-Name : usman
-Phone Number : o32******7
+Name : Muhammad Usman
+Phone Number : 032******0687
 Movie : sonic
-Total Tickets : 24
-Total Prices : 48000
+Total Tickets : 43
+Total Prices : 86000
 ---Hope you will have great---
 For any complaints or suggestions mail at
 example@gmail.com
