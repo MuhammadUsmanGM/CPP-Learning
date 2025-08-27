@@ -1,0 +1,7 @@
+Details for Advanced Python----
+Title: Advanced Python
+Author: Kwaski
+Book ID: 75425965
+Price: 4500
+Status: Available
+------------------------

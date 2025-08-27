@@ -26,7 +26,7 @@ int main(){
 
 
 
-    //**********Reference variable */
+    // //**********Reference variable */
     float vari = 455;
     float & y = vari;
     cout<<vari<<endl;
